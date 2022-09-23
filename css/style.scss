@@ -119,6 +119,9 @@ $fontFamilyPop : 'Poppins', sans-serif;
               font-size: 13px;
             }
           }
+            h3.title{
+              text-transform: capitalize;
+          }
         }
         .contentNotes{
           margin: 10px 0px;

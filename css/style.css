@@ -162,6 +162,10 @@
   font-size: 13px;
 }
 
+.container section.container__result .wrapper__result .resultNotes .titleNotes h3.title {
+  text-transform: capitalize;
+}
+
 .container section.container__result .wrapper__result .resultNotes .contentNotes {
   margin: 10px 0px;
 }
